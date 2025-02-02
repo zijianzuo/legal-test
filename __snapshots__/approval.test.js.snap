@@ -1,0 +1,666 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Approval test should match snapshot 1`] = `
+[
+  [
+    {
+      "benefit": 29,
+      "expiresIn": 19,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 6,
+      "expiresIn": 9,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 36,
+      "expiresIn": 11,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 28,
+      "expiresIn": 18,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 7,
+      "expiresIn": 8,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 37,
+      "expiresIn": 10,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 27,
+      "expiresIn": 17,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 8,
+      "expiresIn": 7,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 39,
+      "expiresIn": 9,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 26,
+      "expiresIn": 16,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 9,
+      "expiresIn": 6,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 41,
+      "expiresIn": 8,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 25,
+      "expiresIn": 15,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 10,
+      "expiresIn": 5,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 43,
+      "expiresIn": 7,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 24,
+      "expiresIn": 14,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 11,
+      "expiresIn": 4,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 45,
+      "expiresIn": 6,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 23,
+      "expiresIn": 13,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 12,
+      "expiresIn": 3,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 47,
+      "expiresIn": 5,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 22,
+      "expiresIn": 12,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 13,
+      "expiresIn": 2,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": 4,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 21,
+      "expiresIn": 11,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 14,
+      "expiresIn": 1,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": 3,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 20,
+      "expiresIn": 10,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 15,
+      "expiresIn": 0,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": 2,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 19,
+      "expiresIn": 9,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 17,
+      "expiresIn": -1,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": 1,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 18,
+      "expiresIn": 8,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 19,
+      "expiresIn": -2,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": 0,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 17,
+      "expiresIn": 7,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 21,
+      "expiresIn": -3,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -1,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 16,
+      "expiresIn": 6,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 23,
+      "expiresIn": -4,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -2,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 15,
+      "expiresIn": 5,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 25,
+      "expiresIn": -5,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -3,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 14,
+      "expiresIn": 4,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 27,
+      "expiresIn": -6,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -4,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 13,
+      "expiresIn": 3,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 29,
+      "expiresIn": -7,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -5,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 12,
+      "expiresIn": 2,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 31,
+      "expiresIn": -8,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -6,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 11,
+      "expiresIn": 1,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 33,
+      "expiresIn": -9,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -7,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 10,
+      "expiresIn": 0,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 35,
+      "expiresIn": -10,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -8,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 8,
+      "expiresIn": -1,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 37,
+      "expiresIn": -11,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -9,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 6,
+      "expiresIn": -2,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 39,
+      "expiresIn": -12,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -10,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 4,
+      "expiresIn": -3,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 41,
+      "expiresIn": -13,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -11,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 2,
+      "expiresIn": -4,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 43,
+      "expiresIn": -14,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -12,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 0,
+      "expiresIn": -5,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 45,
+      "expiresIn": -15,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -13,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 0,
+      "expiresIn": -6,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 47,
+      "expiresIn": -16,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -14,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 0,
+      "expiresIn": -7,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 49,
+      "expiresIn": -17,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -15,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 0,
+      "expiresIn": -8,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": -18,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -16,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 0,
+      "expiresIn": -9,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": -19,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -17,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+  [
+    {
+      "benefit": 0,
+      "expiresIn": -10,
+      "name": "Doliprane",
+    },
+    {
+      "benefit": 50,
+      "expiresIn": -20,
+      "name": "Herbal Tea",
+    },
+    {
+      "benefit": 0,
+      "expiresIn": -18,
+      "name": "Fervex",
+    },
+    {
+      "benefit": 40,
+      "expiresIn": 15,
+      "name": "Magic Pill",
+    },
+  ],
+]
+`;
